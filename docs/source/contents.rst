@@ -9,7 +9,7 @@ Welcome to MySkillTreeDoc's documentation!
 .. toctree::
 
 	test/hello
-
+	index
 
 
 Indices and tables
