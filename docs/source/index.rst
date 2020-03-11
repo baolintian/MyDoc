@@ -9,7 +9,6 @@ Welcome to MySkillTreeDoc's documentation!
 .. toctree::
 
 	test/hello
-	contents
 
 
 
