@@ -1,10 +1,10 @@
-.. myskilltreedoc documentation master file, created by
-   sphinx-quickstart on Wed Mar 11 20:48:53 2020.
+.. mysilltree documentation master file, created by
+   sphinx-quickstart on Wed Mar 11 21:16:49 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to myskilltreedoc's documentation!
-==========================================
+Welcome to mysilltree's documentation!
+======================================
 
 .. toctree::
    :maxdepth: 2
@@ -18,3 +18,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+## test markdown
+$E=mc^2$
