@@ -27,9 +27,9 @@ source_suffix = ['.rst', '.md']
 
 # -- Project information -----------------------------------------------------
 
-project = u'MyTress'
-copyright = u'2020, Babydragon'
-author = u'Babydragon'
+project = u'OpenCV'
+copyright = u'2018, Hunag Xinyuan'
+author = u'Hunag Xinyuan'
 
 # The short X.Y version
 version = u''
@@ -112,7 +112,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'mytree'
+htmlhelp_basename = 'OpenCVdoc'
 
 
 # -- Options for manual page output ------------------------------------------
