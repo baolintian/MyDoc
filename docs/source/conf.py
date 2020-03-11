@@ -27,9 +27,9 @@ source_suffix = ['.rst', '.md']
 
 # -- Project information -----------------------------------------------------
 
-project = u'OpenCV'
-copyright = u'2018, Hunag Xinyuan'
-author = u'Hunag Xinyuan'
+project = u'MySkillTree'
+copyright = u'2020, Babydragon'
+author = u'Babydragon'
 
 # The short X.Y version
 version = u''
@@ -112,7 +112,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'OpenCVdoc'
+htmlhelp_basename = 'MySkillTree'
 
 
 # -- Options for manual page output ------------------------------------------
@@ -120,7 +120,7 @@ htmlhelp_basename = 'OpenCVdoc'
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'opencv', u'OpenCV Documentation',
+    (master_doc, 'MySkillTree', u'MySkillTree Documentation',
      [author], 1)
 ]
 
@@ -131,8 +131,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'OpenCV', u'OpenCV Documentation',
-     author, 'OpenCV', 'One line description of project.',
+    (master_doc, 'MySkillTree', u'MySkillTree Documentation',
+     author, 'MySkillTree', 'One line description of project.',
      'Miscellaneous'),
 ]
 
