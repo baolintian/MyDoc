@@ -6,7 +6,8 @@ MySkillTree
    :maxdepth: 2
    
    
-   hello
+   Sphinx/sphinx
+   setup/setup
 
 
 
