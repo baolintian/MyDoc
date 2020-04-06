@@ -10,6 +10,6 @@ MySkillTree
    setup/setup
    Zotero/zotero
    master/master
-
+   lenovo_air14_2020
 
 
