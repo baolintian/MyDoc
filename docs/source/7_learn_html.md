@@ -1,5 +1,9 @@
 ## 前端入门
 
+发现学习这三样最好的方法就是直接动手做一个demo出来：[flappy-bird](<https://baolintian.github.io/flappy-bird>)
+
+css反正是基本不会。。。
+
 ### html入门笔记
 
 html里面的知识太过的杂碎，索性以点的形式列举出来，方便及时复习回顾。
