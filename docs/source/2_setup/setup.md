@@ -66,3 +66,62 @@ exit
 3.右键使用管理员权限身份打开。
 
 4.等待一会，激活成功。
+
+
+
+## SSR
+
+ssr-cloud
+
+## 写作
+
++ typora
+
+
+
+## 编程
+
++ vscode
+
+  1. remote development
+  2. 
++ VS
++ git bash
++ navicat premium
++ notepad
++ Google Chrome
+  1. AdBlock
+  2. CF-predictor
+  3. Coplay(视频播放同步)
+  4. crxMouse Chrome
+  5. gitZip for github
+  6. Imagus(图放大)
+  7. LastPass
+  8. Octotree
+  9. tampermonkey
+  10. zotero connector
+  11. 书签侧边栏
+  12. 广告终结者
+  13. 有道词典
+
+
+
+## 其他
+
++ xmind zen
++ zotero
++ 坚果云
++ MPC-HC x64 播放器
++ VM Station
++ OBS
++ QQ
++ 微信
++ Steam
++ UltraEdit
++ Texstudio
++ ubuntu WSL
++ 7zip
++ docker desktop
++ screen to gif
++ picgo
+

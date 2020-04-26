@@ -30,3 +30,18 @@
 
 也会你的课题并不是一开始就有一个明确的问题的，尝试着去挖掘深层次的问题。这点感觉目前我很难做到，缺乏经验和想象力。
 
+
+
+## 经验贴
+
+[南大研究生三年总结](https://zhuanlan.zhihu.com/p/38151816)
+
+[19CS小硕校招面试心得、自学CS经验及找工作分享 - 胡津铭的文章](https://zhuanlan.zhihu.com/p/108911948)
+
+[成为研究生后你都明白了什么?](https://www.zhihu.com/question/312709782/answer/1120663562)
+
+[2019 年你读了哪些觉得比较好的计算机书籍?](https://www.zhihu.com/question/361165485/answer/960129388)
+
+[CyC2018/CS-Notes: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++](https://github.com/CyC2018/CS-Notes)
+
+[后端技能树](<https://github.com/xingshaocheng/architect-awesome>)
