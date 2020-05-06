@@ -124,4 +124,6 @@ ssr-cloud
 + docker desktop
 + screen to gif
 + picgo
++ U盘启动盘制作工具：rufus
++ 
 
