@@ -13,10 +13,6 @@ MySkillTree
    5_lenovo_air14_2020
    6_laojiang
    7_learn_html
-   8_csapp
-   9_AV_process
-   10_6.828
    11_driving
-   15_面经准备
    20_如何在研一上学期修完所有的课
 
