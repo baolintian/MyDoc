@@ -6,6 +6,7 @@ MySkillTree
    :maxdepth: 1
    
    热爱生活，喜爱思考
+   26_test
    1_Sphinx/sphinx
    2_setup/setup
    3_Zotero/zotero
